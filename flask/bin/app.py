@@ -74,6 +74,8 @@ def remove_task(task_id):
 	tasks.remove(task[0])
 
 	return jsonify({'result':True})
-	
+
+#more to add the added security features
+
 if __name__ == '__main__':
     app.run(debug=True)
