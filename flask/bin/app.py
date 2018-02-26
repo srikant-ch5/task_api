@@ -6,7 +6,7 @@ tasks = [
 	{
 	'id':1,
 	'title':u'Working out daily',
-	'description' : u'Doing some strecthings and some strength training',
+	'description' : u'Doing strength training',
 	'done':False
 	},
 	{
